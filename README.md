@@ -1,4 +1,6 @@
 # 새로운 것을 항상 배우고자 하는 개발자입니다.
+"주변을 바꾸는 건 나 자신이다" 라는 생각을 가지고 있습니다.
+저는 Javascript 를 통해 Full-Stack 으로 개발하고 있으며, 다양한 플랫폼을 개발하고자 Javascript 를 택했습니다.
 
 ## Profile
 * Jo Junmyeong
