@@ -1,16 +1,18 @@
-### Hi there 👋
+# 새로운 것을 항상 배우고자 하는 개발자입니다.
 
-<!--
-**akodm/akodm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+* Jo Junmyeong
+* 1995.08.14
+* Web, Mobile App Full-Stack Developer (Javascript)
 
-Here are some ideas to get you started:
+## Technologies
+주로 Javascript (Typescript) 를 기반으로
+ReactJS, React-Native, Electron 등을 사용합니다.
+서버의 경우 NodeJS 를 통해 개발합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React (Web), React-Native (Mobile)
+* Electron (PC App)
+* NodeJS (Server Dev Runtime)
+
+## Timeline
+* 주식회사 시더 근무 (2020. 12. 14 ~ 2023. 08. 01)
