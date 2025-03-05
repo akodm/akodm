@@ -1,5 +1,4 @@
-# 새로운 것을 항상 배우려 합니다.
-다양한 플랫픔을 개발하고자, Javascript 를 통해 풀 스택으로 개발합니다.
+Javascript 를 통해 다양한 플랫폼 및 풀 스택으로 개발합니다.
 
 ## Profile
 * Jo Junmyeong
