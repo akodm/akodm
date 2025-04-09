@@ -1,22 +1,19 @@
 Javascript 를 통해 다양한 플랫폼 및 풀 스택으로 개발합니다.
 
 ## Profile
-* Jo Junmyeong
-* 1995.08.14
 * Web & Mobile App Full-Stack Developer (Javascript)
 
 ## Technologies
-주로 Javascript (Typescript) 사용하고,
-ReactJS, React-Native, Electron 등을 사용합니다.
-서버의 경우 NodeJS 를 통해 개발합니다.
-
+* Typescript
+* NextJS
 * React, React-Native (+expo)
-* Electron (PC App)
-* NodeJS (Server Dev Runtime)
-* RestAPI, Graphql
-* MySQL
-* UI Library
+* Electron
+* NodeJS
+* RestAPI or Graphql
+* MySQL, PostgreSQL
+* Tailwind
 
 ## Timeline
-* 주식회사 시더 근무 (2020. 12. 14 ~ 2023. 08. 01)
-* 주식회사 인터갤러틱 근무 (2023. 10. 10 ~ 2024. 12. 31)
+* cedar (2020. 12. 14 ~ 2023. 08. 01)
+* intergalactic (2023. 10. 10 ~ 2024. 12. 31)
+* Komachine (2025. 03. 17 ~ ing)
