@@ -1,5 +1,3 @@
-Javascript 를 통해 다양한 플랫폼 및 풀 스택으로 개발합니다.
-
 ## Profile
 * Web & Mobile App Full-Stack Developer (Javascript)
 
