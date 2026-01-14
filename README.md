@@ -1,5 +1,5 @@
 ## Profile
-* Web & Mobile App Full-Stack Developer (Javascript)
+* Web & Mobile App Full-Stack Developer
 
 ## Technologies
 * Typescript
@@ -12,6 +12,6 @@
 * Tailwind
 
 ## Timeline
-* cedar (2020. 12. 14 ~ 2023. 08. 01)
-* intergalactic (2023. 10. 10 ~ 2024. 12. 31)
+* Cedar (2020. 12. 14 ~ 2023. 08. 01)
+* Intergalactic (2023. 10. 10 ~ 2024. 12. 31)
 * Komachine (2025. 03. 17 ~ ing)
